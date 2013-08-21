@@ -12,7 +12,7 @@ namespace AppJustTryToRun.Controllers
         // GET api/values
         public IEnumerable<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return new string[] { "valuew1", "valssue2" };
         }
 
         // GET api/values/5
